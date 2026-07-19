@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Nitin Singh
 
-<!--
-**DigiBoy1/DigiBoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I am a B.Tech AIML student passionate about Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+## 📌 Goals
+
+- Become an AI Engineer
+- Build real-world AI projects
+- Contribute to Open Source
+- Keep learning every day
+
+## 📂 Featured Projects
+
+Coming Soon...
+
+## 📫 Connect with Me
+
+GitHub: https://github.com/DigiBoy1
+
+---
+⭐ Thanks for visiting my profile!
